@@ -44,7 +44,7 @@ const LOCALES = {
     withLove: "с любовью,",
     signatureNames: "Дилшод\u00a0и\u00a0Динора",
     ornamentNames:
-      "<span class=\"ornament-name-line\">Дилшод</span><span class=\"ornament-name-amp\">и</span><span class=\"ornament-name-line\">Динора</span>",
+      "<span class=\"ornament-name-line\">Дилшод</span><span class=\"ornament-name-amp\">и</span><span class=\"ornament-name-line\">Динора</span><span class=\"ornament-name-amp\">26.06.26</span>",
     ornamentMessage:
       "Аллах объединил их сердца любовью<br />(сура «Аль-Анфаль», аят 63)",
     ornamentDay: "26",
@@ -113,7 +113,7 @@ const LOCALES = {
     withLove: "muhabbat ila,",
     signatureNames: "Dilshod\u00a0va\u00a0Dinora",
     ornamentNames:
-      "<span class=\"ornament-name-line\">Dilshod</span><span class=\"ornament-name-amp\">va</span><span class=\"ornament-name-line\">Dinora</span>",
+      "<span class=\"ornament-name-line\">Dilshod</span><span class=\"ornament-name-amp\">va</span><span class=\"ornament-name-line\">Dinora</span><span class=\"ornament-name-amp\">26.06.26</span>",
     ornamentMessage:
       "Alloh ularni qalbini sevgi ila birlashtirdi<br />(Anfol surasi, 63-oyat)",
     ornamentDay: "26",
