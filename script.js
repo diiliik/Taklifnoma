@@ -122,7 +122,7 @@ const LOCALES = {
     heroNames:
       "<span class=\"hero-title__line\">Aziz va qadrdon</span><span class=\"hero-title__line\">insonimiz!</span>",
     openHere: "ochish",
-    lead: "Hayotimizdagi eng baxtli kunlardan biri - nikoh to'yimizni siz bilan birga nishonlashni niyat qildik.<br /><br />Sizni ushbu kechamizga samimiy taklif etamiz.<br /><br /><strong>Quvonchli kunimizda aziz mehmonimiz bo'lishingizni intizorlik bilan kutamiz.</strong>",
+    lead: "Hayotimizdagi eng baxtli kunlardan biri - farzandlarimiz nikoh to'yini siz bilan birga nishonlashni niyat qildik.<br /><br />Sizni ushbu kechamizga samimiy taklif etamiz.<br /><br /><strong>Quvonchli kunimizda aziz mehmonimiz bo'ling. Rasulovlar oilasi</strong>",
     scrollHint: "Pastga suring",
     calendarMonth: "IYUN 2026",
     weekdayMon: "DU",
